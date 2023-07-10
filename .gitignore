@@ -1,0 +1,8 @@
+**/bin
+**/obj
+**/net7.0
+
+.vscode/*
+.vscode/launch.json
+
+**/*.db
